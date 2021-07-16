@@ -9,3 +9,6 @@ db:
   port: 0000
   username: test
   password: xyxyxy
+  
+host:
+  url: https://testing.com
