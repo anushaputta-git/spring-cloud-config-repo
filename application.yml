@@ -1,0 +1,11 @@
+my:
+  greeting: Hello World!!! from spring-cloud-config-repo
+  list:
+    values: one, two, three, four
+
+db:
+  connection: db-coonection-string
+  host: xyz@123
+  port: 0000
+  username: test
+  password: xyxyxy
