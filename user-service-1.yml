@@ -1,9 +1,8 @@
 test:
   string: Hello From user-service-1
   
-db:
-  connection: db-coonection-string
-  host: xyz@123
-  port: 0000
-  username: test
-  password: xyxyxy
+db.connection: db-coonection-string
+db.host: xyz@123
+db.port: 0000
+db.username: test
+db.password: xyxyxy
