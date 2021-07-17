@@ -1,5 +1,4 @@
-test:
-  string: Hello From user-service-1
+test.string: Hello From user-service-1
   
 db.connection: db-coonection-string
 db.host: xyz@123
