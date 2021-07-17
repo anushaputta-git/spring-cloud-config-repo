@@ -1,0 +1,9 @@
+test:
+  string: Hello From user-service-1-development
+  
+db:
+  connection: db-coonection-string-development
+  host: xyz@123
+  port: 0000
+  username: test
+  password: xyxyxy
